@@ -27,5 +27,5 @@ To run the application locally, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/invoice-billing-system.git
+git clone https://github.com/yashn555/invoice-billing-system.git
 # Medical-invoice-billing-system-using-Java-Swing
